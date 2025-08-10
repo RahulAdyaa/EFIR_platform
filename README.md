@@ -61,7 +61,7 @@ Follow these steps to get your development environment up and running.
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repo-url>
+    git clone https://github.com/RahulAdyaa/EFIR_platform.git
     cd "EFIRManagement portal"
     ```
 
