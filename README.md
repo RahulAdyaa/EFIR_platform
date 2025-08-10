@@ -4,19 +4,6 @@
 
 # EFIR Management Portal 🚨
 
-## EFIR Portal(Registering FIR to Checking Status)
-![image](https://github.com/user-attachments/assets/225c3771-3257-467a-92e1-c85b0aa4e48d)
-![image](https://github.com/user-attachments/assets/a35d187c-2056-42d4-b472-1ef12a6e5dfb)
-![image](https://github.com/user-attachments/assets/fc692001-76c4-480e-992b-e44e8051f88f)
-
-
-
-
-## EFIR ADMIN Portal
-![image](https://github.com/user-attachments/assets/21a5a134-accf-4b13-9565-6435c5c83a61)
-### Listed FIR & Analytics
-![image](https://github.com/user-attachments/assets/b5a212b8-7a1e-4788-aa4d-2745210ccd88)
-![image](https://github.com/user-attachments/assets/2aea1c67-3b5b-4d38-b048-5858a52ce61b)
 
 
 
