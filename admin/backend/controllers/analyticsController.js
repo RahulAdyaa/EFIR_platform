@@ -23,7 +23,7 @@ const getFIRStats = asyncHandler(async (req, res) => {
 // @route   GET /api/admin/analytics/fir-trend
 // @access  Private (Admin only)
 const getFIRTrend = asyncHandler(async (req, res) => {
-    // This is a basic example; you might want more sophisticated aggregation
+    // This is a basic example; you might want more sophisticated aggregations and more details
     const firsByMonth = await FIR.aggregate([
         {
             $group: {
